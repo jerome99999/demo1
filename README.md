@@ -2,9 +2,12 @@
 
 Projet Python de démonstration.
 
+Test1_mchln.ipynb
+
 ## Technologies
 - Python
 - pandas
+- numpy
 - Streamlit
 
 ## Objectif
